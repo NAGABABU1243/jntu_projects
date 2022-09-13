@@ -13,10 +13,12 @@ public class Calculator {
 
 	public double doMul(double num1, double num2) {
 		return num1 * num2;
+		//numbers
 	}
 
 	public double doDiv(double num1, double num2) {
 		return num1 / num2;
+		//addd values
 	}
 
 }
